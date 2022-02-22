@@ -15,6 +15,7 @@
 5. Установите фреймверк Vuforia в свой проект Unity
 
 6. Поместите ваш ключ в настройки Vuforia в самом Unity-проекте
+![image](https://user-images.githubusercontent.com/49618439/155052534-f5eda9f3-69ba-48ed-afd1-d2ee6dc36a65.png)
 
 7. Используйте наши Assets для повторения проекта
 
